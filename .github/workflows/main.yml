@@ -1,0 +1,25 @@
+name: Deploy MkDocs
+
+on:
+  push:
+    branch:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+     
+      - name: Install MkDocs
+        run: python3 -m pip install -r requirements.txt     
+      - name: Deploy HTML files
+        run: mkdocs build --verbose --clean --strict
+     
+      - name: mkdocs deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./site
