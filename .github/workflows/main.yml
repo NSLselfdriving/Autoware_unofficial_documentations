@@ -29,5 +29,6 @@ jobs:
       - run: pip install mkdocs-material 
       - run : pip install fontawesome-markdown
       - run : pip install mdx-truly-sane-lists
+      - run : pip install mkdocs-awesome-pages-plugin
       
       - run: mkdocs gh-deploy --force
