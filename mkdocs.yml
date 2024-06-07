@@ -65,7 +65,6 @@ markdown_extensions:
       guess_lang: false
   - footnotes
   - md_in_html
-  - mdx_math
   - mdx_truly_sane_lists:
       nested_indent: 2
   - plantuml_markdown:
