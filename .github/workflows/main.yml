@@ -17,7 +17,6 @@ jobs:
           pip install mkdocs
       - name: Build site
         run: |
-          cd docs
           mkdocs build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
