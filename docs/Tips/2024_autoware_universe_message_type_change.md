@@ -25,7 +25,7 @@ https://github.com/orgs/autowarefoundation/discussions/3862
 [https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_control_msgs/msg/AckermannControlCommand.idl](https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_control_msgs/msg/AckermannControlCommand.idl)
 
 - 新）autoware_control_msgs/Control	
-[https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_control_msgs/msg/Control.msg]
+[https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_control_msgs/msg/Control.msg](https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_control_msgs/msg/Control.msg)
 
 ### 旧新比較
 一緒であることがわかる。
@@ -39,45 +39,51 @@ https://github.com/orgs/autowarefoundation/discussions/3862
 | lateral.steering_tire_rotation_rate | lateral.steering_tire_rotation_rate |
 
 
-## autoware_auto_vehicle_msgs/ControlModeCommand	
+## autoware_auto_vehicle_msgs/ControlModeCommand
 ＝＞サービスに変更
 
-## autoware_auto_vehicle_msgs/ControlModeReport	
+## autoware_auto_vehicle_msgs/ControlModeReport
 
-- 旧）https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/ControlModeReport.idl
-- 新）https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/ControlModeReport.msg
+- 旧）[https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/ControlModeReport.idl](https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/ControlModeReport.idl)
+- 新）[https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/ControlModeReport.msg](https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/ControlModeReport.msg)
 
 ### 旧新比較
 一緒
 
 ## autoware_auto_vehicle_msgs/Engage
-- 旧）https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/Engage.idl
-- 新）https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/Engage.msg
+
+- 旧）[https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/Engage.idl](https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/Engage.idl)
+- 新）[https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/Engage.msg](https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/Engage.msg)
 
 ### 旧新比較
 一緒
 
-## autoware_auto_vehicle_msgs/GearCommand	
-- 旧）https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/GearCommand.idl
-- 新）https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/GearCommand.msg
+## autoware_auto_vehicle_msgs/GearCommand
+
+- 旧）[https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/GearCommand.idl](https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/GearCommand.idl)
+- 新）[https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/GearCommand.msg](https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/GearCommand.msg)
 
 ## autoware_auto_vehicle_msgs/GearReport
-- 旧）https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/GearReport.idl
-- 新）https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/GearReport.msg
+
+- 旧）[https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/GearReport.idl](https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/GearReport.idl)
+- 新）[https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/GearReport.msg](https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/GearReport.msg)
 
 ### 旧新比較
 一緒
 
-## autoware_auto_vehicle_msgs/SteeringReport	
-- 旧）https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/SteeringReport.idl
-- 新）https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/SteeringReport.msg
+## autoware_auto_vehicle_msgs/SteeringReport
+
+- 旧）[https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/SteeringReport.idl](https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/SteeringReport.idl)
+- 新）[https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/SteeringReport.msg](https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/SteeringReport.msg)
 
 ### 旧新比較
 一緒
 
-## autoware_auto_vehicle_msgs/VelocityReport	
-- 旧）https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/VelocityReport.idl
-- 新）https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/VelocityReport.msg
+## autoware_auto_vehicle_msgs/VelocityReport
+
+- 旧）[https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/VelocityReport.idl](https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_vehicle_msgs/msg/VelocityReport.idl)
+- 新）[https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/VelocityReport.msg](https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_vehicle_msgs/msg/VelocityReport.msg)
 
 ### 旧新比較
 一緒
+
