@@ -9,7 +9,7 @@ https://github.com/orgs/autowarefoundation/discussions/3862
 
 ## 2024年変更前のメッセージ型の定義ファイル（Autoware.Auto時代のもの）
 
-https://github.com/tier4/autoware_auto_msgs
+(https://github.com/tier4/autoware_auto_msgs)
 
 ## 2024年変更後のメッセージ型の定義ファイル
 
