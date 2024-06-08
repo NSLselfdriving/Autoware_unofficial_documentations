@@ -2,7 +2,7 @@
 
 メッセージ型の変更に関する情報は以下のdiscussion に記載されている。
 
-https://github.com/orgs/autowarefoundation/discussions/3862
+[https://github.com/orgs/autowarefoundation/discussions/3862](https://github.com/orgs/autowarefoundation/discussions/3862)
 
 # 新旧メッセージの比較調査の結論
 メッセージタイプが変わっているだけで、構造や変数の名前は変化なし！
