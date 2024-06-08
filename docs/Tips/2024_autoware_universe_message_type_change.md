@@ -9,11 +9,11 @@ https://github.com/orgs/autowarefoundation/discussions/3862
 
 ## 2024年変更前のメッセージ型の定義ファイル（Autoware.Auto時代のもの）
 
-(https://github.com/tier4/autoware_auto_msgs)
+[https://github.com/tier4/autoware_auto_msgs](https://github.com/tier4/autoware_auto_msgs)
 
 ## 2024年変更後のメッセージ型の定義ファイル
 
-https://github.com/autowarefoundation/autoware_msgs/
+[https://github.com/autowarefoundation/autoware_msgs/](https://github.com/autowarefoundation/autoware_msgs/)
 
 # 変更確認
 特に自動車とのIntegration周りで重要なトピックに着目して差分を比較してみる。
@@ -22,10 +22,10 @@ https://github.com/autowarefoundation/autoware_msgs/
 
 ## autoware_auto_control_msgs/AckermannControlCommand	
 - 旧）autoware_auto_control_msgs/AckermannControlCommand
-https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_control_msgs/msg/AckermannControlCommand.idl
+[https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_control_msgs/msg/AckermannControlCommand.idl](https://github.com/tier4/autoware_auto_msgs/blob/tier4/main/autoware_auto_control_msgs/msg/AckermannControlCommand.idl)
 
 - 新）autoware_control_msgs/Control	
-https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_control_msgs/msg/Control.msg
+[https://github.com/autowarefoundation/autoware_msgs/blob/main/autoware_control_msgs/msg/Control.msg]
 
 ### 旧新比較
 一緒であることがわかる。
