@@ -15,7 +15,7 @@ https://github.com/tier4/autoware_auto_msgs
 
 https://github.com/autowarefoundation/autoware_msgs/
 
-# 各変更の確認
+# 変更確認
 特に自動車とのIntegration周りで重要なトピックに着目して差分を比較してみる。
 
 各見出しは、Autoware.Auto時代の古いメッセージ型
