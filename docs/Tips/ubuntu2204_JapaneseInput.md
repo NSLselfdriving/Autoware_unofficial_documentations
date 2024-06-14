@@ -10,7 +10,7 @@ sudo reboot
 ### 半角/全角 キーでの日本語/英語入力切り替え
 画面右上のWifiやバッテリー残量表示がある部分をクリックし、**Settings**を開く。
 
-![settings.png](/docs/Tips/images/Ubuntu2204JapaneseInput/settings.png)
+![settings.png](images/Ubuntu2204JapaneseInput/settings.png)
 
 Settings左サイドバーの一番下にある**Keyboard**をクリックする。
 
